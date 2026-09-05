@@ -1,0 +1,1 @@
+export default function handler(req,res){if(req.method==='GET'){return res.status(200).json({ok:true,authenticated:false,user:null,mode:'frontend-only'})}if(req.method==='POST'){return res.status(501).json({ok:false,error:'Auth backend belum dikonfigurasi. Hubungkan API auth milik kamu sendiri.'})}return res.status(405).json({ok:false,error:'Method tidak diizinkan'})}
