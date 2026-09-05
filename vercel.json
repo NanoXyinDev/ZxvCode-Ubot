@@ -1,1 +1,0 @@
-{"version":2,"cleanUrls":true,"rewrites":[{"source":"/api/bridge/:path*","destination":"/api/bridge"},{"source":"/api/auth","destination":"/api/auth"},{"source":"/login","destination":"/login.html"},{"source":"/register","destination":"/register.html"},{"source":"/connect","destination":"/connect.html"}]}
