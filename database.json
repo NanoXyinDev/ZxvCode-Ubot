@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "8fdc5b00-d65c-400d-8b74-458df5ff5b32",
+    "username": "zxv",
+    "email": "gamerprobayu@gmail.com",
+    "passwordHash": "316c492ec624502d427ef054048bc91ea13e8d310ef0d026b7a05258262b79e95e4de235d343636f5545940f37704a768f113df29350dd74071bf617e43e451d",
+    "passwordSalt": "d2a8ea1c0f1e8b0ffa827f2f91df6521",
+    "role": "user",
+    "createdAt": "2026-09-05T14:34:50.359Z"
+  }
+]
